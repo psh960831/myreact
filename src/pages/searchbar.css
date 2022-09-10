@@ -4,9 +4,17 @@
     margin:5px;
 }
 
-
-
 .searchBar ul li {
-    text-align:left;
-    text-decoration:none;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    color: skyblue;
+    font-family: inherit;
+    font-size: inherit;
+    height: 100%;
+    outline: none;
+    padding-inline-end: 44px;
+    padding-inline-start: 52px;
+    position: relative;
+    width: 100%;
 }
